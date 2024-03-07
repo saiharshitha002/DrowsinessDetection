@@ -17,7 +17,7 @@
 
 ## *Installation*
 1. *Clone or download the repository:
-  git clone https://github.com/saiharshitha002/driver-drowsiness-detection.git*
+  https://github.com/saiharshitha002/DrowsinessDetection.git*
 2. *Install dependencies using pip:
   pip install -r requirements.txt*
 3. *Download the pre-trained ResNet50 model from the TensorFlow/Keras model zoo and place it in the project directory.*
